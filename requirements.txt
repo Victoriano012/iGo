@@ -1,0 +1,7 @@
+python-telegram-bot==13.5
+osmnx==1.1.0
+python-csv==0.0.13
+staticmap==0.5.5
+urllib3==1.25.8
+networkx==2.5.1
+scikit-learn==0.24.2
