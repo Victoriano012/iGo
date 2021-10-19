@@ -18,7 +18,7 @@ There is also a hidden command, **pos *loc* **, which fixes the current position
 
 ### Example pictures
 
-<img src="images/text.png" width="222"> <img src="images/go.png" width="222"> <img src="images/congestions_img.png" width="222"> <img src="images/where.png" width="222">
+<img src="images/text.png" width="180"> <img src="images/go.png" width="180"> <img src="images/congestions_img.png" width="180"> <img src="images/where.png" width="180">
 
 ### Technologies used
 
