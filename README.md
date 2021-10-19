@@ -14,11 +14,11 @@ Right now, the bot has three main commands:
 
 Before using the first two, the user has to send their location.
 
-There is also a hidden command, **pos *loc*,**, which fixes the current position of the user in a fake location.
+There is also a hidden command, **pos *loc*,** which fixes the current position of the user in a fake location.
 
 ### Example pictures
 
-<img src="images/text.png" width="200"> <img src="images/go.png" width="200"> <img src="images/congestions_img.png" width="200"> <img src="images/where.png" width="200">
+<img src="images/text.png" width="180"> <img src="images/go.png" width="180"> <img src="images/congestions_img.png" width="180"> <img src="images/where.png" width="180">
 
 ### Technologies used
 
